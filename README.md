@@ -281,9 +281,7 @@ healthcare-operations-analytics/
     └── business_insights.md
 ```
 
-## Why This Project Is Portfolio-Worthy
-
-This project demonstrates practical analytics skills across a realistic healthcare operations scenario:
+## This project demonstrates practical analytics skills across a realistic healthcare operations scenario:
 
 - Advanced SQL with multiple CTEs
 - Window functions such as `RANK()`, `LAG()`, `LEAD()`, `NTILE()`, and `PERCENT_RANK()`
