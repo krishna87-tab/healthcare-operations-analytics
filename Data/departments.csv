@@ -1,0 +1,11 @@
+department_id,department_name,department_group
+D001,Emergency,Acute Care
+D002,Cardiology,Specialty Care
+D003,Orthopedics,Specialty Care
+D004,Neurology,Specialty Care
+D005,Pediatrics,Primary Care
+D006,Oncology,Specialty Care
+D007,General Medicine,Primary Care
+D008,Radiology,Diagnostics
+D009,Obstetrics,Specialty Care
+D010,Endocrinology,Specialty Care

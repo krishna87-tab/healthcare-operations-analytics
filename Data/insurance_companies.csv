@@ -1,0 +1,8 @@
+insurance_id,insurance_name,insurance_type
+INS01,Aetna,Commercial
+INS02,Blue Cross,Commercial
+INS03,Cigna,Commercial
+INS04,UnitedHealthcare,Commercial
+INS05,Medicare,Government
+INS06,Medicaid,Government
+INS07,Self Pay,Self Pay

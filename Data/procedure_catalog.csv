@@ -1,0 +1,13 @@
+procedure_code,procedure_name,department_id,standard_cost
+PR001,ECG,D002,180.00
+PR002,MRI Scan,D008,1600.00
+PR003,X-Ray,D008,250.00
+PR004,Blood Panel,D007,90.00
+PR005,Cardiac Stress Test,D002,850.00
+PR006,Physical Therapy Session,D003,130.00
+PR007,Chemotherapy Session,D006,4200.00
+PR008,Appendectomy,D007,8700.00
+PR009,Fracture Repair,D003,12500.00
+PR010,Ultrasound,D009,450.00
+PR011,CT Scan,D008,1100.00
+PR012,Neurological Evaluation,D004,520.00

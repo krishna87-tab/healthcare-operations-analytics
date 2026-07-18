@@ -1,0 +1,11 @@
+medication_id,medication_name,medication_class
+MED001,Lisinopril,Blood Pressure
+MED002,Metformin,Diabetes
+MED003,Amoxicillin,Antibiotic
+MED004,Atorvastatin,Cholesterol
+MED005,Albuterol,Respiratory
+MED006,Ibuprofen,Pain Relief
+MED007,Ondansetron,Nausea
+MED008,Insulin Glargine,Diabetes
+MED009,Sertraline,Mental Health
+MED010,Warfarin,Anticoagulant

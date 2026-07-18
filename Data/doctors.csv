@@ -1,0 +1,121 @@
+doctor_id,doctor_name,department_id,specialty,hire_date,employment_type
+DR0001,Dr. Mia Miller,D004,Neurology,2023-07-20,Full-Time
+DR0002,Dr. Ethan Johnson,D003,Orthopedics,2019-04-24,Full-Time
+DR0003,Dr. Emma Anderson,D008,Radiology,2017-04-05,Part-Time
+DR0004,Dr. Noah Wilson,D002,Cardiology,2017-07-16,Full-Time
+DR0005,Dr. Lucas Smith,D007,General Medicine,2014-05-04,Full-Time
+DR0006,Dr. Liam Miller,D007,General Medicine,2018-01-02,Full-Time
+DR0007,Dr. Ava Moore,D006,Oncology,2019-01-13,Full-Time
+DR0008,Dr. James Moore,D003,Orthopedics,2018-07-28,Full-Time
+DR0009,Dr. Zoe Moore,D010,Endocrinology,2015-04-01,Contract
+DR0010,Dr. Zoe Moore,D001,Emergency,2024-05-01,Full-Time
+DR0011,Dr. Liam Miller,D008,Radiology,2015-12-28,Full-Time
+DR0012,Dr. Mia Moore,D005,Pediatrics,2024-09-21,Contract
+DR0013,Dr. Mason Davis,D003,Orthopedics,2017-11-26,Full-Time
+DR0014,Dr. Ava Miller,D010,Endocrinology,2023-07-29,Full-Time
+DR0015,Dr. Emma Wilson,D003,Orthopedics,2016-12-29,Full-Time
+DR0016,Dr. Aria Wilson,D008,Radiology,2017-06-28,Full-Time
+DR0017,Dr. James Miller,D004,Neurology,2021-06-12,Full-Time
+DR0018,Dr. Ava Davis,D002,Cardiology,2022-05-14,Part-Time
+DR0019,Dr. Sophia Moore,D001,Emergency,2023-01-18,Full-Time
+DR0020,Dr. Sophia Taylor,D005,Pediatrics,2020-01-07,Full-Time
+DR0021,Dr. Liam Williams,D002,Cardiology,2016-06-28,Full-Time
+DR0022,Dr. Aria Johnson,D010,Endocrinology,2022-03-16,Part-Time
+DR0023,Dr. Liam Taylor,D004,Neurology,2020-06-23,Full-Time
+DR0024,Dr. Liam Moore,D010,Endocrinology,2020-07-22,Full-Time
+DR0025,Dr. Ava Smith,D007,General Medicine,2019-06-10,Full-Time
+DR0026,Dr. Aria Taylor,D006,Oncology,2023-01-21,Full-Time
+DR0027,Dr. James Johnson,D004,Neurology,2018-10-12,Full-Time
+DR0028,Dr. Lucas Brown,D001,Emergency,2019-12-28,Full-Time
+DR0029,Dr. Lucas Johnson,D001,Emergency,2024-11-15,Full-Time
+DR0030,Dr. Mason Miller,D004,Neurology,2019-10-01,Full-Time
+DR0031,Dr. Aria Moore,D004,Neurology,2021-07-01,Part-Time
+DR0032,Dr. Emma Taylor,D006,Oncology,2024-10-09,Full-Time
+DR0033,Dr. Noah Smith,D001,Emergency,2014-05-29,Full-Time
+DR0034,Dr. Ethan Johnson,D010,Endocrinology,2018-09-24,Full-Time
+DR0035,Dr. James Brown,D001,Emergency,2015-08-22,Full-Time
+DR0036,Dr. Liam Smith,D005,Pediatrics,2020-03-17,Full-Time
+DR0037,Dr. Ethan Miller,D010,Endocrinology,2021-10-03,Part-Time
+DR0038,Dr. Aria Taylor,D008,Radiology,2018-12-18,Full-Time
+DR0039,Dr. Ava Brown,D004,Neurology,2018-08-20,Full-Time
+DR0040,Dr. Aria Johnson,D010,Endocrinology,2016-10-26,Full-Time
+DR0041,Dr. Ethan Wilson,D005,Pediatrics,2018-09-14,Contract
+DR0042,Dr. Zoe Smith,D008,Radiology,2017-04-01,Full-Time
+DR0043,Dr. Lucas Williams,D005,Pediatrics,2023-09-24,Full-Time
+DR0044,Dr. Mason Taylor,D007,General Medicine,2019-09-28,Full-Time
+DR0045,Dr. Mia Williams,D006,Oncology,2019-04-16,Full-Time
+DR0046,Dr. Noah Williams,D005,Pediatrics,2023-07-04,Full-Time
+DR0047,Dr. Mason Brown,D004,Neurology,2022-12-06,Full-Time
+DR0048,Dr. Ava Brown,D003,Orthopedics,2023-02-26,Full-Time
+DR0049,Dr. Liam Johnson,D009,Obstetrics,2021-02-15,Full-Time
+DR0050,Dr. Mia Williams,D009,Obstetrics,2025-02-27,Full-Time
+DR0051,Dr. Ava Miller,D004,Neurology,2014-04-24,Full-Time
+DR0052,Dr. Emma Johnson,D007,General Medicine,2023-10-14,Part-Time
+DR0053,Dr. Zoe Miller,D001,Emergency,2015-10-01,Full-Time
+DR0054,Dr. James Smith,D005,Pediatrics,2018-05-25,Part-Time
+DR0055,Dr. James Wilson,D008,Radiology,2023-08-12,Full-Time
+DR0056,Dr. Zoe Taylor,D006,Oncology,2022-11-22,Full-Time
+DR0057,Dr. Mia Moore,D004,Neurology,2015-01-25,Full-Time
+DR0058,Dr. Emma Moore,D005,Pediatrics,2025-05-13,Full-Time
+DR0059,Dr. Mia Davis,D002,Cardiology,2018-08-31,Full-Time
+DR0060,Dr. Ethan Wilson,D009,Obstetrics,2019-12-25,Full-Time
+DR0061,Dr. Liam Williams,D005,Pediatrics,2015-04-27,Full-Time
+DR0062,Dr. Lucas Taylor,D004,Neurology,2024-08-02,Contract
+DR0063,Dr. Lucas Johnson,D001,Emergency,2025-05-24,Full-Time
+DR0064,Dr. Ava Miller,D002,Cardiology,2019-06-16,Part-Time
+DR0065,Dr. Sophia Davis,D007,General Medicine,2016-12-07,Full-Time
+DR0066,Dr. Liam Davis,D009,Obstetrics,2019-10-11,Part-Time
+DR0067,Dr. Ava Davis,D009,Obstetrics,2022-03-22,Full-Time
+DR0068,Dr. Aria Brown,D005,Pediatrics,2014-10-04,Full-Time
+DR0069,Dr. Zoe Smith,D010,Endocrinology,2016-07-05,Full-Time
+DR0070,Dr. Zoe Davis,D009,Obstetrics,2021-01-06,Full-Time
+DR0071,Dr. Noah Wilson,D001,Emergency,2022-08-03,Part-Time
+DR0072,Dr. Emma Johnson,D002,Cardiology,2017-04-24,Contract
+DR0073,Dr. Noah Wilson,D002,Cardiology,2024-05-29,Part-Time
+DR0074,Dr. Mia Johnson,D005,Pediatrics,2021-06-22,Full-Time
+DR0075,Dr. Aria Johnson,D009,Obstetrics,2024-02-08,Full-Time
+DR0076,Dr. Mia Brown,D006,Oncology,2016-12-05,Full-Time
+DR0077,Dr. Noah Miller,D008,Radiology,2019-08-02,Full-Time
+DR0078,Dr. Sophia Williams,D003,Orthopedics,2024-08-21,Part-Time
+DR0079,Dr. James Davis,D010,Endocrinology,2014-01-13,Full-Time
+DR0080,Dr. Lucas Brown,D008,Radiology,2025-04-12,Full-Time
+DR0081,Dr. Lucas Miller,D003,Orthopedics,2021-03-05,Full-Time
+DR0082,Dr. Zoe Wilson,D008,Radiology,2019-09-02,Full-Time
+DR0083,Dr. Emma Johnson,D005,Pediatrics,2015-12-02,Full-Time
+DR0084,Dr. Aria Johnson,D004,Neurology,2025-05-10,Contract
+DR0085,Dr. Mason Smith,D007,General Medicine,2020-09-06,Part-Time
+DR0086,Dr. Emma Wilson,D005,Pediatrics,2016-06-18,Full-Time
+DR0087,Dr. Ethan Davis,D007,General Medicine,2022-12-21,Full-Time
+DR0088,Dr. Lucas Miller,D009,Obstetrics,2022-07-07,Full-Time
+DR0089,Dr. James Wilson,D004,Neurology,2020-11-15,Part-Time
+DR0090,Dr. Lucas Williams,D005,Pediatrics,2023-02-23,Full-Time
+DR0091,Dr. Mason Smith,D002,Cardiology,2020-07-10,Full-Time
+DR0092,Dr. Aria Miller,D008,Radiology,2018-11-21,Full-Time
+DR0093,Dr. Aria Johnson,D006,Oncology,2024-05-10,Full-Time
+DR0094,Dr. Emma Moore,D001,Emergency,2020-11-24,Full-Time
+DR0095,Dr. Sophia Williams,D009,Obstetrics,2021-10-19,Full-Time
+DR0096,Dr. Aria Smith,D004,Neurology,2022-01-31,Full-Time
+DR0097,Dr. Aria Anderson,D008,Radiology,2017-09-17,Full-Time
+DR0098,Dr. Noah Johnson,D009,Obstetrics,2018-11-23,Full-Time
+DR0099,Dr. Zoe Johnson,D008,Radiology,2015-05-15,Full-Time
+DR0100,Dr. Sophia Brown,D001,Emergency,2014-05-15,Full-Time
+DR0101,Dr. Noah Taylor,D010,Endocrinology,2014-10-05,Full-Time
+DR0102,Dr. Lucas Miller,D006,Oncology,2023-09-08,Full-Time
+DR0103,Dr. Lucas Miller,D008,Radiology,2022-01-21,Part-Time
+DR0104,Dr. James Davis,D001,Emergency,2023-03-29,Full-Time
+DR0105,Dr. Liam Taylor,D004,Neurology,2019-02-13,Full-Time
+DR0106,Dr. Sophia Taylor,D008,Radiology,2015-01-12,Contract
+DR0107,Dr. Liam Johnson,D005,Pediatrics,2019-09-10,Full-Time
+DR0108,Dr. Liam Anderson,D007,General Medicine,2025-02-09,Full-Time
+DR0109,Dr. Lucas Moore,D008,Radiology,2020-08-15,Full-Time
+DR0110,Dr. Noah Williams,D010,Endocrinology,2020-06-03,Full-Time
+DR0111,Dr. Lucas Anderson,D002,Cardiology,2017-07-01,Full-Time
+DR0112,Dr. Ethan Williams,D007,General Medicine,2022-06-13,Full-Time
+DR0113,Dr. Mason Miller,D001,Emergency,2017-03-14,Full-Time
+DR0114,Dr. Noah Smith,D004,Neurology,2023-11-17,Full-Time
+DR0115,Dr. Zoe Moore,D009,Obstetrics,2020-08-30,Full-Time
+DR0116,Dr. Ethan Williams,D007,General Medicine,2021-06-08,Contract
+DR0117,Dr. Noah Johnson,D002,Cardiology,2018-05-20,Part-Time
+DR0118,Dr. James Taylor,D010,Endocrinology,2024-02-20,Full-Time
+DR0119,Dr. Lucas Brown,D007,General Medicine,2018-12-13,Full-Time
+DR0120,Dr. James Moore,D003,Orthopedics,2017-12-08,Full-Time

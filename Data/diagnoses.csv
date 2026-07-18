@@ -1,0 +1,16 @@
+diagnosis_code,diagnosis_description,diagnosis_group
+I10,Hypertension,Chronic
+E11,Type 2 Diabetes,Chronic
+J18,Pneumonia,Acute
+I25,Coronary Artery Disease,Chronic
+S72,Femur Fracture,Injury
+G43,Migraine,Chronic
+C50,Breast Cancer,Cancer
+N39,Urinary Tract Infection,Acute
+J45,Asthma,Chronic
+K35,Appendicitis,Acute
+O80,Normal Delivery,Maternity
+M54,Back Pain,Chronic
+F41,Anxiety Disorder,Mental Health
+R07,Chest Pain,Symptom
+A09,Gastroenteritis,Acute
