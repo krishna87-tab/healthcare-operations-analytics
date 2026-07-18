@@ -276,9 +276,6 @@ healthcare-operations-analytics/
 │   ├── dashboard_screenshots/
 │   └── looker_studio_link.md
 │
-├── optional_ml/
-│   └── bigquery_ml_30_day_readmission.sql
-│
 └── docs/
     ├── data_dictionary.md
     └── business_insights.md
