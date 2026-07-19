@@ -260,17 +260,15 @@ healthcare-operations-analytics/
 │   └── ...
 │
 ├── sql/
-│   ├── 01_data_validation.sql
-│   ├── 02_schema_cleaning.sql
-│   ├── 03_department_volume_wait_time.sql
-│   ├── 04_doctor_workload_ranking.sql
-│   ├── 05_readmission_analysis.sql
-│   ├── 06_claim_denial_trends.sql
-│   ├── 07_revenue_leakage.sql
-│   ├── 08_high_cost_encounters.sql
-│   ├── 09_lab_turnaround_time.sql
-│   ├── 10_patient_journey.sql
-│   └── 11_length_of_stay_analysis.sql
+│   ├── department_volume_wait_time.sql
+│   ├── doctor_workload_ranking.sql
+│   ├── readmission_analysis.sql
+│   ├── claim_denial_trends.sql
+│   ├── revenue_leakage.sql
+│   ├── high_cost_encounters.sql
+│   ├── lab_turnaround_time.sql
+│   ├── patient_journey.sql
+│   └── length_of_stay_analysis.sql
 │
 ├── dashboard/
 │   ├── dashboard_screenshots/
