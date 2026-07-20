@@ -267,4 +267,13 @@ This project uses BigQuery SQL to analyze healthcare operations data across appo
 
 The analysis focuses on patient flow, wait times, doctor workload, readmission patterns, claim denials, revenue leakage, high-cost encounters, lab turnaround time, and length of stay.
 
+
+# Author
+
+``` Krishna Kamal Gogoi ```
+
+``` Operational Analyst | Business Intelligence Analyst | Data Analyst | Power BI Developer ```
+
+``` Tech Stack: Google Big Query • AWS S3 • Snowflake • dbt • SQL • Power Query • DAX • Power BI  ```
+
 The final output is a SQL-driven healthcare analytics case study suitable for a data analyst portfolio.
