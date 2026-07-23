@@ -274,6 +274,6 @@ The analysis focuses on patient flow, wait times, doctor workload, readmission p
 
 ``` Operational Analyst | Business Intelligence Analyst | Data Analyst | Power BI Developer ```
 
-``` Tech Stack: Google Big Query • AWS S3 • Snowflake • dbt • SQL • Power Query • DAX • Power BI  ```
+``` Tech Stack: Google Big Query • SQL ```
 
 The final output is a SQL-driven healthcare analytics case study suitable for a data analyst portfolio.
